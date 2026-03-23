@@ -1,0 +1,12 @@
+const data = [
+  { id: 1, name: "Pranjal", age: 28, product: "Something", price: 90000 },
+  { id: 2, name: "Asha", age: 32, product: "Laptop", price: 75000 },
+  { id: 3, name: "Ravi", age: 25, product: "Mobile", price: 25000 },
+  { id: 4, name: "Neha", age: 29, product: "Headphones", price: 4500 },
+  { id: 5, name: "Karan", age: 31, product: "Keyboard", price: 3000 },
+  { id: 6, name: "Simran", age: 27, product: "Monitor", price: 15000 },
+  { id: 7, name: "Amit", age: 30, product: "Mouse", price: 1200 },
+  { id: 8, name: "Sneha", age: 26, product: "Tablet", price: 35000 },
+  { id: 9, name: "Vikram", age: 33, product: "Chair", price: 7000 },
+  { id: 10, name: "Rohit", age: 24, product: "Backpack", price: 1800 }
+];
